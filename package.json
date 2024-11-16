@@ -15,6 +15,7 @@
   },
   "preferGlobal": true,
   "dependencies": {
-    "g": "^2.0.1"
+    "g": "^2.0.1",
+    "user": "^0.0.0"
   }
 }
